@@ -1,0 +1,15 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "Node JS training",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env server2.js"
+  },
+  "author": "Dexter",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
